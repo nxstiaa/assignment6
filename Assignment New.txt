@@ -4,7 +4,7 @@ Using Ensembl:
 
 2.) How many exons are in the longest splice variant(s) of BRCA2? 27
 
-3.) How many introns are in the longest splice variant(s) of BRCA2? 27
+3.) How many introns are in the longest splice variant(s) of BRCA2? 26
 
 4.) What chromosome is this gene on? chromosome 13
 
@@ -20,7 +20,7 @@ ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG
 
 8.) What is the length of the first intron of this hemoglobin transcript? 122
 
-9.) How many pseudogenes are in the narwal genome annotation (NGI_Narwhal_1, INSDC Assembly GCA_005190385.2)? 733
+9.) How many pseudogenes are in the narwal genome annotation (NGI_Narwhal_1, INSDC Assembly GCA_005190385.2)? 723
 
 
 Using Genomicus: 
@@ -37,11 +37,11 @@ rbm33a (ENSBSLG00000001275)
 1
 
 13.) How many copies of shh are in Atlantic salmon? (*)
-2
+4
 
 Using NCBI:
 
-14.) How many genome assemblies are available for Bos taurus on NCBI? 26
+14.) How many genome assemblies are available for Bos taurus on NCBI? 11
 
 15.) How many of the above assemblies are assembled into chromosomes? 9 
 
@@ -56,21 +56,6 @@ Using NCBI:
 Pasquier J, Cabau C, Nguyen T, Jouanno E, Severac D, Braasch I, Journot L, Pontarotti P, Klopp C, Postlethwait JH, Guiguen Y, Bobe J. Gene evolution and gene expression after whole genome duplication in fish: the PhyloFish database. BMC Genomics. 2016 May 18;17:368. doi: 10.1186/s12864-016-2709-z. PMID: 27189481; PMCID: PMC4870732.
 
 20.) What is the translated coding sequence of NM_00110482? (*)
-
-atggacc tgctggccaa agcatctgtg
-       61 ctgctgttgc tgctcctgag cctcagcaac gctcaaactg acaatatgga ggaagcagaa
-      121 aacggttcat caaaggagga aatagacgag tctgaactgg aggacgtgtc ctccatcatc
-      181 ttcagaatga acaacaactc tatggaggaa ctgttggaag gagatcttgt tcttcccaaa
-      241 accaggaatg ccatgaagtg ctttggcgct ccagatagct gccgctggcc aaagtcttcc
-      301 aatggcatcg tgaaggttcc ttatgtggtt agcgacaact atgaaagtga cgagaaggaa
-      361 accattcgga acgccatgaa ggagtttgca gaaaaaacct gcattcactt tgttcctcgc
-      421 aacaatgaga gggcctacct gagccttgaa cccagatttg gctgcaagtc tatgatgggc
-      481 tatgttggtg acaaacaagt ggtggtgctt cagcggtttg gctgcataaa gcacgccgtc
-      541 atccagcatg agctcctgca tgctctgggt ttctaccacg agcacactcg gagcgaccgc
-      601 gaccagcatg taaaaatcaa ctgggaaaac atcattaaag atttcacaca caactttgat
-      661 aagaatgata ccgacaatct gggcaccccg tatgactatg gctccatcat gcactatgga
-      721 agaactgcct ttggaaaaga cagaaaggag accataaccc ccatccctaa ccccaaagct
-      781 gccattggcc aaacagagag gatgtcggac atcgatatac ttcgagtcaa taagctttac
-      841 aaatgttga
+MDLLAKASVLLLLLLSLSNAQTDNMEEAENGSSKEEIDESELEDVSSIIFRMNNNSMEELLEGDLVLPKTRNAMKCFGAPDSCRWPKSSNGIVKVPYVVSDNYESDEKETIRNAMKEFAEKTCIHFVPRNNERAYLSLEPRFGCKSMMGYVGDKQVVVLQRFGCIKHAVIQHELLHALGFYHEHTRSDRDQHVKINWENIIKDFTHNFDKNDTDNLGTPYDYGSIMHYGRTAFGKDRKETITPIPNPKAAIGQTERMSDIDILRVNKLYKC-
 
 Put all these answers in a text file and put it on your GitHub.
